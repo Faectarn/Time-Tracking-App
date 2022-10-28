@@ -20,5 +20,5 @@ Jag använde mig av vanlig css med react-bootstrap för vissa komponenter
 ### Paket
 Utöver React och React Router använde jag mig av:
 
-[json-server](https://github.com/typicode/json-server) för servern
+[json-server](https://github.com/typicode/json-server) för servern<br/>
 [react-bootstrap](https://react-bootstrap.github.io/) för att underlätta byggandet av modaler och tabbar
