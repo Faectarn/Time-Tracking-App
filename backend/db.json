@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": 4347123,
+      "name": "Hushållsarbete",
+      "tasks": [
+        {
+          "id": 8089305,
+          "text": "Städa",
+          "timer": {
+            "timerOn": false
+          },
+          "date": 1666985159534
+        },
+        {
+          "id": 5114257,
+          "text": "Diska",
+          "timer": {
+            "startTime": 1666985501424,
+            "timerOn": false,
+            "stopTime": 1666985516165
+          },
+          "date": 1666985167646
+        }
+      ]
+    },
+    {
+      "id": 1557609,
+      "name": "Nöjen",
+      "tasks": [
+        {
+          "id": 6094143,
+          "text": "Läsa bok",
+          "timer": {
+            "timerOn": false
+          },
+          "date": 1666985244438
+        }
+      ]
+    }
+  ]
+}

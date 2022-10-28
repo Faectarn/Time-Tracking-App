@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  color: black;
+  text-align: center;
+  background-color: #886dc1;
+}
+
+#error-page {
+  margin-top: 4rem;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  margin: 1rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+
+.footer {
+  padding: 1.2rem;
+  background-color: #886dc1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+footer a {
+  padding: 8px;
+  border-radius: 5px;
+}
+
+footer a.active {
+  background: white;
+}

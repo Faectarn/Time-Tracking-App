@@ -1,0 +1,25 @@
+.timertasklist {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    padding-bottom: 7rem;
+  }
+
+.timerbutton {
+    font-size: 20px;
+    background: transparent;
+    border: none;
+    padding-left: 14px;
+    cursor: pointer;
+}
+
+.timertask {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    margin: 0 1rem;
+    padding: 0.5rem;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+  }
